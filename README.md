@@ -1,7 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<title>royce world</title>
+
 <meta carset="UTF-8">
 </head>
 <body>
