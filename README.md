@@ -1,6 +1,5 @@
 
 <meta carset="UTF-8">
-</head>
 <body>
 <h1><a href="royce world.html" target="_blank" title="test">ROYCE의 세상에 온걸 환영해</a></h1>
 <p><strong>2021년 5월동안 내가 느낀 가장 큰 의미는 다음과 같다.</strong>
